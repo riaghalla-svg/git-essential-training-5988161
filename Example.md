@@ -3,3 +3,5 @@ git add 'file name' = new file or folder added to repository
 git add . = save all new things
 git status = to check if changes are saved / what changed
 git commit -m 'adds example.md' =  commit means to save point for that file at that point (kind of like a version01, version02 etc). The -m means add the MESSAGE (to perhaps say why you are committing or saving this file/version)
+git init = create a new empty repository
+git remote add origin 'URL' = adding the new local repo to the particular online/remote repo we want
